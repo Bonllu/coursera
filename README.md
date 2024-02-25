@@ -1,2 +1,2 @@
-# coursera_project
+# coursera
 final project for Coursera
