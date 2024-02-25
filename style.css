@@ -1,14 +1,6 @@
-
-  
-body {
+  body {
 
     background: url('library.png');
     background-repeat: no-repeat;
     background-size: cover;
-}
-#tooltip{
-  color: orange;
-}
-.introduction{
-  background: rosybrown;
 }
